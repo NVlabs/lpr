@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Jan Kautz | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/jan-kautz/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/jan-kautz/index.xml" rel="self" type="application/rss+xml" />
+    <description> Jan Kautz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title> Jan Kautz</title>
+      <link>https://nvlabs.github.io/lpr/author/jan-kautz/</link>
+    </image>
+    
+    <item>
+      <title>Binary TTC: A Temporal Geofence for Autonomous Navigation</title>
+      <link>https://nvlabs.github.io/lpr/publication/badki2021bittc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/badki2021bittc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bi3D: Stereo Depth Estimation via Binary Classifications</title>
+      <link>https://nvlabs.github.io/lpr/publication/badki2020bi3d/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/badki2020bi3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NVAE: A Deep Hierarchical Variational Autoencoder</title>
+      <link>https://nvlabs.github.io/lpr/publication/vahdat2020nvae/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/vahdat2020nvae/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

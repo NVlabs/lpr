@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongxu (Danny) Yin | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/hongxu-danny-yin/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/hongxu-danny-yin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hongxu (Danny) Yin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Hongxu (Danny) Yin</title>
+      <link>https://nvlabs.github.io/lpr/author/hongxu-danny-yin/</link>
+    </image>
+    
+  </channel>
+</rss>

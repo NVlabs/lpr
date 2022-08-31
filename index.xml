@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/index.xml" rel="self" type="application/rss+xml" />
+    <description>NVIDIA Learning and Perception Research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>NVIDIA Learning and Perception Research</title>
+      <link>https://nvlabs.github.io/lpr/</link>
+    </image>
+    
+    <item>
+      <title>Watch It Move: Unsupervised Discovery of 3D Joints for Re-Posing of Articulated Objects</title>
+      <link>https://nvlabs.github.io/lpr/publication/noguchi2022watch/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/noguchi2022watch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binary TTC: A Temporal Geofence for Autonomous Navigation</title>
+      <link>https://nvlabs.github.io/lpr/publication/badki2021bittc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/badki2021bittc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bi3D: Stereo Depth Estimation via Binary Classifications</title>
+      <link>https://nvlabs.github.io/lpr/publication/badki2020bi3d/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/badki2020bi3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NVAE: A Deep Hierarchical Variational Autoencoder</title>
+      <link>https://nvlabs.github.io/lpr/publication/vahdat2020nvae/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/vahdat2020nvae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LPR Group</title>
+      <link>https://nvlabs.github.io/lpr/author/lpr-group/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/author/lpr-group/</guid>
+      <description>&lt;h1 id=&#34;nvidia-learning-and-perception-research-group&#34;&gt;NVIDIA Learning and Perception Research Group&lt;/h1&gt;
+&lt;p&gt;We pursue fundamental research in the areas of computer vision and deep learning, including visual perception, geometric vision, generative models, and efficient deep learning.&lt;/p&gt;
+&lt;!-- Please see [this link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite) for open positions. --&gt;
+&lt;!-- You can also contact our [members](#people) directly for potential internship positions. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

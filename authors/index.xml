@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/authors/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Authors</title>
+      <link>https://nvlabs.github.io/lpr/authors/</link>
+    </image>
+    
+    <item>
+      <title>LPR Group</title>
+      <link>https://nvlabs.github.io/lpr/author/lpr-group/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/author/lpr-group/</guid>
+      <description>&lt;h1 id=&#34;nvidia-learning-and-perception-research-group&#34;&gt;NVIDIA Learning and Perception Research Group&lt;/h1&gt;
+&lt;p&gt;We pursue fundamental research in the areas of computer vision and deep learning, including visual perception, geometric vision, generative models, and efficient deep learning.&lt;/p&gt;
+&lt;!-- Please see [this link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite) for open positions. --&gt;
+&lt;!-- You can also contact our [members](#people) directly for potential internship positions. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
