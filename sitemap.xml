@@ -2,148 +2,290 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nvlabs.github.io/lpr/author/jan-kautz/</loc>
+    <loc>https://nvlabs.github.io/author/jan-kautz/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/publication-type/0/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/atsuhiro-noguchi/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/authors/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/authors/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/publication/yuan2022glamr/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/jonathan-tremblay/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/kris-kitani/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/orazio-gallo/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/pavlo-molchanov/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/publication_types/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/publication/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/tatsuya-harada/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/umar-iqbal/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/publication/noguchi2022watch/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/ye-yuan/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/publication-type/1/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/publication-type/0/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/atsuhiro-noguchi/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/authors/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/authors/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/jonathan-tremblay/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/orazio-gallo/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/publication_types/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/publication/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/tatsuya-harada/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/umar-iqbal/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/publication/noguchi2022watch/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/abhishek-badki/</loc>
+    <loc>https://nvlabs.github.io/author/aayush-prakash/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/publication/badki2021bittc/</loc>
+    <loc>https://nvlabs.github.io/author/abhishek-badki/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/publication/iqbal2021kama/</loc>
+    <loc>https://nvlabs.github.io/author/animashree-anandkumar/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/kevin-xie/</loc>
+    <loc>https://nvlabs.github.io/author/ankur-handa/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/pavlo-molchanov/</loc>
+    <loc>https://nvlabs.github.io/author/balakumar-sundaralingam/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/pradeep-sen/</loc>
+    <loc>https://nvlabs.github.io/publication/badki2021bittc/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/yunrong-guo/</loc>
+    <loc>https://nvlabs.github.io/author/byron-boots/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/alejandro-troccoli/</loc>
+    <loc>https://nvlabs.github.io/author/ching-an-cheng/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/david-hoeller/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/publication/zhong2021sfm/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/publication/chao2021dexycb/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/dieter-fox/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/eric-cameracci/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/fabio-ramos/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/publication/shi2021fastuq/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/gavriel-state/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/guanya-shi/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/publication/zhu2021hier/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/hongdong-li/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/ingo-wald/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/jan-issac/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/jean-francois-lafleche/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/jianyuan-wang/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/publication/kumar2021jailer/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/kaihao-zhang/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/publication/iqbal2021kama/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/karl-van-wyk/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/kevin-xie/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/marc-t.-law/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/publication/lin2021mvml/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/mustafa-mukadam/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/nathan-morrical/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/nathan-ratliff/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/nikolai-smolyanskiy/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/publication/morrical2021nvisii/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/patricio-a.-vela/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/pradeep-sen/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/publication/cheng2021rmpflow/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/publication/prakash2021iccvrealtosim/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/shoubhik-debnath/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/stan-birchfield/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/stephen-tyree/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/valerio-pascucci/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/visak-kumar/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/wei-yang/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/yashraj-s.-narang/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/yifeng-zhu/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/yiran-zhong/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/yu-xiang/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/yu-wei-chao/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/yuchao-dai/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/yuke-zhu/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/yunrong-guo/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/yunzhi-lin/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/author/alejandro-troccoli/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/arash-vahdat/</loc>
+    <loc>https://nvlabs.github.io/author/arash-vahdat/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/publication/badki2020bi3d/</loc>
+    <loc>https://nvlabs.github.io/publication/badki2020bi3d/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/kihwan-kim/</loc>
+    <loc>https://nvlabs.github.io/author/kihwan-kim/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/publication/vahdat2020nvae/</loc>
+    <loc>https://nvlabs.github.io/publication/vahdat2020nvae/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/publication/iqbal2020weakpose/</loc>
+    <loc>https://nvlabs.github.io/publication/iqbal2020weakpose/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/publication/iqbal2018hands25d/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>https://nvlabs.github.io/author/ali-hatamizadeh/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/juergen-gall/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>https://nvlabs.github.io/author/arun-mallya/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/ali-hatamizadeh/</loc>
+    <loc>https://nvlabs.github.io/author/ben-eckart/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/arun-mallya/</loc>
+    <loc>https://nvlabs.github.io/author/bowen-wen/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/ben-eckart/</loc>
+    <loc>https://nvlabs.github.io/categories/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/bowen-wen/</loc>
+    <loc>https://nvlabs.github.io/author/chao-liu/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/categories/</loc>
+    <loc>https://nvlabs.github.io/author/charles-loop/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/chao-liu/</loc>
+    <loc>https://nvlabs.github.io/author/chen-hsuan-lin/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/charles-loop/</loc>
+    <loc>https://nvlabs.github.io/author/hang-su/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/chen-hsuan-lin/</loc>
+    <loc>https://nvlabs.github.io/author/hongxu-danny-yin/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/hang-su/</loc>
+    <loc>https://nvlabs.github.io/author/iuri-frosio/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/hongxu-danny-yin/</loc>
+    <loc>https://nvlabs.github.io/author/jeff-smith/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/iuri-frosio/</loc>
+    <loc>https://nvlabs.github.io/author/jiaming-song/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/jeff-smith/</loc>
+    <loc>https://nvlabs.github.io/author/lpr-group/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/jiaming-song/</loc>
+    <loc>https://nvlabs.github.io/author/morteza-mardani/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/lpr-group/</loc>
+    <loc>https://nvlabs.github.io/post/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/morteza-mardani/</loc>
+    <loc>https://nvlabs.github.io/talk/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/post/</loc>
+    <loc>https://nvlabs.github.io/author/seungjun-nah/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/talk/</loc>
+    <loc>https://nvlabs.github.io/author/shalini-de-mello/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/seungjun-nah/</loc>
+    <loc>https://nvlabs.github.io/author/siddharth-gururani/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/shalini-de-mello/</loc>
+    <loc>https://nvlabs.github.io/author/sifei-liu/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/siddharth-gururani/</loc>
+    <loc>https://nvlabs.github.io/tags/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/sifei-liu/</loc>
+    <loc>https://nvlabs.github.io/author/thomas-breuel/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/stan-birchfield/</loc>
+    <loc>https://nvlabs.github.io/author/ting-chun-wang/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/stephen-tyree/</loc>
+    <loc>https://nvlabs.github.io/author/wonmin-byeon/</loc>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/tags/</loc>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/test-me/</loc>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/thomas-breuel/</loc>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/ting-chun-wang/</loc>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/wonmin-byeon/</loc>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/xueting-li/</loc>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/ye-yuan/</loc>
+    <loc>https://nvlabs.github.io/author/xueting-li/</loc>
   </url>
 </urlset>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arash Vahdat | NVIDIA Learning and Perception Research</title>
-    <link>https://nvlabs.github.io/lpr/author/arash-vahdat/</link>
-      <atom:link href="https://nvlabs.github.io/lpr/author/arash-vahdat/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nvlabs.github.io/author/arash-vahdat/</link>
+      <atom:link href="https://nvlabs.github.io/author/arash-vahdat/index.xml" rel="self" type="application/rss+xml" />
     <description>Arash Vahdat</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <url>https://nvlabs.github.io/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Arash Vahdat</title>
-      <link>https://nvlabs.github.io/lpr/author/arash-vahdat/</link>
+      <link>https://nvlabs.github.io/author/arash-vahdat/</link>
     </image>
     
     <item>
       <title>NVAE: A Deep Hierarchical Variational Autoencoder</title>
-      <link>https://nvlabs.github.io/lpr/publication/vahdat2020nvae/</link>
+      <link>https://nvlabs.github.io/publication/vahdat2020nvae/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/vahdat2020nvae/</guid>
+      <guid>https://nvlabs.github.io/publication/vahdat2020nvae/</guid>
       <description></description>
     </item>
     

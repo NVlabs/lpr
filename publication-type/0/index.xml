@@ -2,69 +2,133 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0 | NVIDIA Learning and Perception Research</title>
-    <link>https://nvlabs.github.io/lpr/publication-type/0/</link>
-      <atom:link href="https://nvlabs.github.io/lpr/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nvlabs.github.io/publication-type/0/</link>
+      <atom:link href="https://nvlabs.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <url>https://nvlabs.github.io/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>0</title>
-      <link>https://nvlabs.github.io/lpr/publication-type/0/</link>
+      <link>https://nvlabs.github.io/publication-type/0/</link>
     </image>
     
     <item>
-      <title>Watch It Move: Unsupervised Discovery of 3D Joints for Re-Posing of Articulated Objects</title>
-      <link>https://nvlabs.github.io/lpr/publication/noguchi2022watch/</link>
+      <title>GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras</title>
+      <link>https://nvlabs.github.io/publication/yuan2022glamr/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/noguchi2022watch/</guid>
+      <guid>https://nvlabs.github.io/publication/yuan2022glamr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watch It Move: Unsupervised Discovery of 3D Joints for Re-Posing of Articulated Objects</title>
+      <link>https://nvlabs.github.io/publication/noguchi2022watch/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/publication/noguchi2022watch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Binary TTC: A Temporal Geofence for Autonomous Navigation</title>
-      <link>https://nvlabs.github.io/lpr/publication/badki2021bittc/</link>
+      <link>https://nvlabs.github.io/publication/badki2021bittc/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/badki2021bittc/</guid>
+      <guid>https://nvlabs.github.io/publication/badki2021bittc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Two-View Structure-from-Motion Revisited</title>
+      <link>https://nvlabs.github.io/publication/zhong2021sfm/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/publication/zhong2021sfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DexYCB: A Benchmark for Capturing Hand Grasping of Objects</title>
+      <link>https://nvlabs.github.io/publication/chao2021dexycb/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/publication/chao2021dexycb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Uncertainty Quantification for Deep Object Pose Estimation</title>
+      <link>https://nvlabs.github.io/publication/shi2021fastuq/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/publication/shi2021fastuq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs</title>
+      <link>https://nvlabs.github.io/publication/zhu2021hier/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/publication/zhu2021hier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Space Control via Deep Reinforcement Learning</title>
+      <link>https://nvlabs.github.io/publication/kumar2021jailer/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/publication/kumar2021jailer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KAMA: 3D Keypoint Aware Body Mesh Articulation</title>
-      <link>https://nvlabs.github.io/lpr/publication/iqbal2021kama/</link>
+      <link>https://nvlabs.github.io/publication/iqbal2021kama/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/iqbal2021kama/</guid>
+      <guid>https://nvlabs.github.io/publication/iqbal2021kama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-View Fusion for Multi-Level Robotic Scene Understanding</title>
+      <link>https://nvlabs.github.io/publication/lin2021mvml/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/publication/lin2021mvml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NViSII: A Scriptable Tool for Photorealistic Image Generation</title>
+      <link>https://nvlabs.github.io/publication/morrical2021nvisii/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/publication/morrical2021nvisii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Supervised Real-to-Sim Scene Generation</title>
+      <link>https://nvlabs.github.io/publication/prakash2021iccvrealtosim/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/publication/prakash2021iccvrealtosim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bi3D: Stereo Depth Estimation via Binary Classifications</title>
-      <link>https://nvlabs.github.io/lpr/publication/badki2020bi3d/</link>
+      <link>https://nvlabs.github.io/publication/badki2020bi3d/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/badki2020bi3d/</guid>
+      <guid>https://nvlabs.github.io/publication/badki2020bi3d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NVAE: A Deep Hierarchical Variational Autoencoder</title>
-      <link>https://nvlabs.github.io/lpr/publication/vahdat2020nvae/</link>
+      <link>https://nvlabs.github.io/publication/vahdat2020nvae/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/vahdat2020nvae/</guid>
+      <guid>https://nvlabs.github.io/publication/vahdat2020nvae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weakly-Supervised 3D Human Pose Learning via Multi-view Images in the Wild</title>
-      <link>https://nvlabs.github.io/lpr/publication/iqbal2020weakpose/</link>
+      <link>https://nvlabs.github.io/publication/iqbal2020weakpose/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/iqbal2020weakpose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hand Pose Estimation via Latent 2.5D Heatmap Regression</title>
-      <link>https://nvlabs.github.io/lpr/publication/iqbal2018hands25d/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/iqbal2018hands25d/</guid>
+      <guid>https://nvlabs.github.io/publication/iqbal2020weakpose/</guid>
       <description></description>
     </item>
     
