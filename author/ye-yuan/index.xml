@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ye Yuan | NVIDIA Learning and Perception Research</title>
-    <link>https://nvlabs.github.io/author/ye-yuan/</link>
-      <atom:link href="https://nvlabs.github.io/author/ye-yuan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nvlabs.github.io/lpr/author/ye-yuan/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/ye-yuan/index.xml" rel="self" type="application/rss+xml" />
     <description>Ye Yuan</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nvlabs.github.io/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Ye Yuan</title>
-      <link>https://nvlabs.github.io/author/ye-yuan/</link>
+      <link>https://nvlabs.github.io/lpr/author/ye-yuan/</link>
     </image>
     
     <item>
       <title>GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras</title>
-      <link>https://nvlabs.github.io/publication/yuan2022glamr/</link>
+      <link>https://nvlabs.github.io/lpr/publication/yuan2022glamr/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/publication/yuan2022glamr/</guid>
+      <guid>https://nvlabs.github.io/lpr/publication/yuan2022glamr/</guid>
       <description></description>
     </item>
     

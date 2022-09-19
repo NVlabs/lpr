@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kihwan Kim | NVIDIA Learning and Perception Research</title>
-    <link>https://nvlabs.github.io/author/kihwan-kim/</link>
-      <atom:link href="https://nvlabs.github.io/author/kihwan-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nvlabs.github.io/lpr/author/kihwan-kim/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/kihwan-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Kihwan Kim</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nvlabs.github.io/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Kihwan Kim</title>
-      <link>https://nvlabs.github.io/author/kihwan-kim/</link>
+      <link>https://nvlabs.github.io/lpr/author/kihwan-kim/</link>
     </image>
     
     <item>
       <title>Bi3D: Stereo Depth Estimation via Binary Classifications</title>
-      <link>https://nvlabs.github.io/publication/badki2020bi3d/</link>
+      <link>https://nvlabs.github.io/lpr/publication/badki2020bi3d/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/publication/badki2020bi3d/</guid>
+      <guid>https://nvlabs.github.io/lpr/publication/badki2020bi3d/</guid>
       <description></description>
     </item>
     

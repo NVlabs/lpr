@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Balakumar Sundaralingam | NVIDIA Learning and Perception Research</title>
-    <link>https://nvlabs.github.io/author/balakumar-sundaralingam/</link>
-      <atom:link href="https://nvlabs.github.io/author/balakumar-sundaralingam/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nvlabs.github.io/lpr/author/balakumar-sundaralingam/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/balakumar-sundaralingam/index.xml" rel="self" type="application/rss+xml" />
     <description>Balakumar Sundaralingam</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nvlabs.github.io/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Balakumar Sundaralingam</title>
-      <link>https://nvlabs.github.io/author/balakumar-sundaralingam/</link>
+      <link>https://nvlabs.github.io/lpr/author/balakumar-sundaralingam/</link>
     </image>
     
     <item>
       <title>Joint Space Control via Deep Reinforcement Learning</title>
-      <link>https://nvlabs.github.io/publication/kumar2021jailer/</link>
+      <link>https://nvlabs.github.io/lpr/publication/kumar2021jailer/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/publication/kumar2021jailer/</guid>
+      <guid>https://nvlabs.github.io/lpr/publication/kumar2021jailer/</guid>
       <description></description>
     </item>
     

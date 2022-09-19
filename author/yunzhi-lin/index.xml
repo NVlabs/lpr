@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yunzhi Lin | NVIDIA Learning and Perception Research</title>
-    <link>https://nvlabs.github.io/author/yunzhi-lin/</link>
-      <atom:link href="https://nvlabs.github.io/author/yunzhi-lin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nvlabs.github.io/lpr/author/yunzhi-lin/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/yunzhi-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Yunzhi Lin</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nvlabs.github.io/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Yunzhi Lin</title>
-      <link>https://nvlabs.github.io/author/yunzhi-lin/</link>
+      <link>https://nvlabs.github.io/lpr/author/yunzhi-lin/</link>
     </image>
     
     <item>
       <title>Multi-View Fusion for Multi-Level Robotic Scene Understanding</title>
-      <link>https://nvlabs.github.io/publication/lin2021mvml/</link>
+      <link>https://nvlabs.github.io/lpr/publication/lin2021mvml/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/publication/lin2021mvml/</guid>
+      <guid>https://nvlabs.github.io/lpr/publication/lin2021mvml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NViSII: A Scriptable Tool for Photorealistic Image Generation</title>
-      <link>https://nvlabs.github.io/publication/morrical2021nvisii/</link>
+      <link>https://nvlabs.github.io/lpr/publication/morrical2021nvisii/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/publication/morrical2021nvisii/</guid>
+      <guid>https://nvlabs.github.io/lpr/publication/morrical2021nvisii/</guid>
       <description></description>
     </item>
     

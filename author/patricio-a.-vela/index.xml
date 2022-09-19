@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patricio A. Vela | NVIDIA Learning and Perception Research</title>
-    <link>https://nvlabs.github.io/author/patricio-a.-vela/</link>
-      <atom:link href="https://nvlabs.github.io/author/patricio-a.-vela/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nvlabs.github.io/lpr/author/patricio-a.-vela/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/patricio-a.-vela/index.xml" rel="self" type="application/rss+xml" />
     <description>Patricio A. Vela</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nvlabs.github.io/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Patricio A. Vela</title>
-      <link>https://nvlabs.github.io/author/patricio-a.-vela/</link>
+      <link>https://nvlabs.github.io/lpr/author/patricio-a.-vela/</link>
     </image>
     
     <item>
       <title>Multi-View Fusion for Multi-Level Robotic Scene Understanding</title>
-      <link>https://nvlabs.github.io/publication/lin2021mvml/</link>
+      <link>https://nvlabs.github.io/lpr/publication/lin2021mvml/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/publication/lin2021mvml/</guid>
+      <guid>https://nvlabs.github.io/lpr/publication/lin2021mvml/</guid>
       <description></description>
     </item>
     

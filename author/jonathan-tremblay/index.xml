@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonathan Tremblay | NVIDIA Learning and Perception Research</title>
-    <link>https://nvlabs.github.io/author/jonathan-tremblay/</link>
-      <atom:link href="https://nvlabs.github.io/author/jonathan-tremblay/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nvlabs.github.io/lpr/author/jonathan-tremblay/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/jonathan-tremblay/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan Tremblay</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nvlabs.github.io/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Jonathan Tremblay</title>
-      <link>https://nvlabs.github.io/author/jonathan-tremblay/</link>
+      <link>https://nvlabs.github.io/lpr/author/jonathan-tremblay/</link>
     </image>
     
     <item>
       <title>Watch It Move: Unsupervised Discovery of 3D Joints for Re-Posing of Articulated Objects</title>
-      <link>https://nvlabs.github.io/publication/noguchi2022watch/</link>
+      <link>https://nvlabs.github.io/lpr/publication/noguchi2022watch/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/publication/noguchi2022watch/</guid>
+      <guid>https://nvlabs.github.io/lpr/publication/noguchi2022watch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DexYCB: A Benchmark for Capturing Hand Grasping of Objects</title>
-      <link>https://nvlabs.github.io/publication/chao2021dexycb/</link>
+      <link>https://nvlabs.github.io/lpr/publication/chao2021dexycb/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/publication/chao2021dexycb/</guid>
+      <guid>https://nvlabs.github.io/lpr/publication/chao2021dexycb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast Uncertainty Quantification for Deep Object Pose Estimation</title>
-      <link>https://nvlabs.github.io/publication/shi2021fastuq/</link>
+      <link>https://nvlabs.github.io/lpr/publication/shi2021fastuq/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/publication/shi2021fastuq/</guid>
+      <guid>https://nvlabs.github.io/lpr/publication/shi2021fastuq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs</title>
-      <link>https://nvlabs.github.io/publication/zhu2021hier/</link>
+      <link>https://nvlabs.github.io/lpr/publication/zhu2021hier/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/publication/zhu2021hier/</guid>
+      <guid>https://nvlabs.github.io/lpr/publication/zhu2021hier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint Space Control via Deep Reinforcement Learning</title>
-      <link>https://nvlabs.github.io/publication/kumar2021jailer/</link>
+      <link>https://nvlabs.github.io/lpr/publication/kumar2021jailer/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/publication/kumar2021jailer/</guid>
+      <guid>https://nvlabs.github.io/lpr/publication/kumar2021jailer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-View Fusion for Multi-Level Robotic Scene Understanding</title>
-      <link>https://nvlabs.github.io/publication/lin2021mvml/</link>
+      <link>https://nvlabs.github.io/lpr/publication/lin2021mvml/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/publication/lin2021mvml/</guid>
+      <guid>https://nvlabs.github.io/lpr/publication/lin2021mvml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NViSII: A Scriptable Tool for Photorealistic Image Generation</title>
-      <link>https://nvlabs.github.io/publication/morrical2021nvisii/</link>
+      <link>https://nvlabs.github.io/lpr/publication/morrical2021nvisii/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/publication/morrical2021nvisii/</guid>
+      <guid>https://nvlabs.github.io/lpr/publication/morrical2021nvisii/</guid>
       <description></description>
     </item>
     
