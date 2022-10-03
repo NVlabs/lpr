@@ -5,12 +5,44 @@
     <link>https://nvlabs.github.io/lpr/author/ting-chun-wang/</link>
       <atom:link href="https://nvlabs.github.io/lpr/author/ting-chun-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Ting-Chun Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Ting-Chun Wang</title>
       <link>https://nvlabs.github.io/lpr/author/ting-chun-wang/</link>
     </image>
+    
+    <item>
+      <title>Multimodal Conditional Image Synthesis with Product-of-Experts GANs</title>
+      <link>https://nvlabs.github.io/lpr/publication/huang2022poegan/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/huang2022poegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Stylization: A Fast Covariance Matching Framework towards Domain Adaptation</title>
+      <link>https://nvlabs.github.io/lpr/publication/domainstylization_tpami20_2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/domainstylization_tpami20_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing</title>
+      <link>https://nvlabs.github.io/lpr/publication/wang2021facevid2vid/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/wang2021facevid2vid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World-Consistent Video-to-Video Synthesis</title>
+      <link>https://nvlabs.github.io/lpr/publication/mallya2020world/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/mallya2020world/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

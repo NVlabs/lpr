@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assaf Hallak | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/assaf-hallak/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/assaf-hallak/index.xml" rel="self" type="application/rss+xml" />
+    <description>Assaf Hallak</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Assaf Hallak</title>
+      <link>https://nvlabs.github.io/lpr/author/assaf-hallak/</link>
+    </image>
+    
+    <item>
+      <title>Improve Agents without Retraining: Parallel Tree Search with Off-Policy Correction</title>
+      <link>https://nvlabs.github.io/lpr/publication/dalal2021noretrain/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/dalal2021noretrain/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

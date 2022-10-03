@@ -5,7 +5,7 @@
     <link>https://nvlabs.github.io/lpr/author/stan-birchfield/</link>
       <atom:link href="https://nvlabs.github.io/lpr/author/stan-birchfield/index.xml" rel="self" type="application/rss+xml" />
     <description>Stan Birchfield</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Stan Birchfield</title>
@@ -13,41 +13,41 @@
     </image>
     
     <item>
-      <title>Deep Two-View Structure-from-Motion Revisited</title>
-      <link>https://nvlabs.github.io/lpr/publication/zhong2021sfm/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/zhong2021sfm/</guid>
+      <title>6-DoF Pose Estimation of Household Objects for Robotic Manipulation: An Accessible Dataset and Benchmark</title>
+      <link>https://nvlabs.github.io/lpr/publication/tyree2022hope/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/tyree2022hope/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>DexYCB: A Benchmark for Capturing Hand Grasping of Objects</title>
-      <link>https://nvlabs.github.io/lpr/publication/chao2021dexycb/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/chao2021dexycb/</guid>
+      <title>Keypoint-Based Category-Level Object Pose Tracking from an RGB Sequence with Uncertainty Estimation</title>
+      <link>https://nvlabs.github.io/lpr/publication/lin2022keypoint/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lin2022keypoint/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fast Uncertainty Quantification for Deep Object Pose Estimation</title>
-      <link>https://nvlabs.github.io/lpr/publication/shi2021fastuq/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/shi2021fastuq/</guid>
+      <title>Single-Stage Keypoint-Based Category-Level Object Pose Estimation from an RGB Image</title>
+      <link>https://nvlabs.github.io/lpr/publication/lin2022single/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lin2022single/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs</title>
-      <link>https://nvlabs.github.io/lpr/publication/zhu2021hier/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/zhu2021hier/</guid>
+      <title>Self-Supervised Real-to-Sim Scene Generation</title>
+      <link>https://nvlabs.github.io/lpr/publication/prakash2021iccvrealtosim/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/prakash2021iccvrealtosim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint Space Control via Deep Reinforcement Learning</title>
       <link>https://nvlabs.github.io/lpr/publication/kumar2021jailer/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/kumar2021jailer/</guid>
       <description></description>
     </item>
@@ -55,32 +55,64 @@
     <item>
       <title>Multi-View Fusion for Multi-Level Robotic Scene Understanding</title>
       <link>https://nvlabs.github.io/lpr/publication/lin2021mvml/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/lin2021mvml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NViSII: A Scriptable Tool for Photorealistic Image Generation</title>
-      <link>https://nvlabs.github.io/lpr/publication/morrical2021nvisii/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/morrical2021nvisii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RMPflow: A Geometric Framework for Generation of Multi-Task Motion Policies</title>
       <link>https://nvlabs.github.io/lpr/publication/cheng2021rmpflow/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/cheng2021rmpflow/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Self-Supervised Real-to-Sim Scene Generation</title>
-      <link>https://nvlabs.github.io/lpr/publication/prakash2021iccvrealtosim/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/prakash2021iccvrealtosim/</guid>
+      <title>Deep Two-View Structure-from-Motion Revisited</title>
+      <link>https://nvlabs.github.io/lpr/publication/zhong2021sfm/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/zhong2021sfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DexYCB: A Benchmark for Capturing Hand Grasping of Objects</title>
+      <link>https://nvlabs.github.io/lpr/publication/chao2021dexycb/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/chao2021dexycb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Uncertainty Quantification for Deep Object Pose Estimation</title>
+      <link>https://nvlabs.github.io/lpr/publication/shi2021fastuq/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/shi2021fastuq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs</title>
+      <link>https://nvlabs.github.io/lpr/publication/zhu2021hier/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/zhu2021hier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NViSII: A Scriptable Tool for Photorealistic Image Generation</title>
+      <link>https://nvlabs.github.io/lpr/publication/morrical2021nvisii/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/morrical2021nvisii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indirect Object-to-Robot Pose Estimation from an External Monocular RGB Camera</title>
+      <link>https://nvlabs.github.io/lpr/publication/tremblay2020indirect/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/tremblay2020indirect/</guid>
       <description></description>
     </item>
     

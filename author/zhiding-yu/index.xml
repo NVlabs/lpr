@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhiding Yu | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/zhiding-yu/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/zhiding-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhiding Yu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Zhiding Yu</title>
+      <link>https://nvlabs.github.io/lpr/author/zhiding-yu/</link>
+    </image>
+    
+    <item>
+      <title>CoordGAN: Self-Supervised Dense Correspondences Emerge from GANs</title>
+      <link>https://nvlabs.github.io/lpr/publication/mu2022coordgan/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/mu2022coordgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FreeSOLO: Learning to Segment Objects without Annotations</title>
+      <link>https://nvlabs.github.io/lpr/publication/freesolo_cvpr22_2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/freesolo_cvpr22_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning contrastive representation for semantic correspondence</title>
+      <link>https://nvlabs.github.io/lpr/publication/xiao2022learning/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/xiao2022learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupled Segmentation and Edge Learning Using Dynamic Graph Propagation</title>
+      <link>https://nvlabs.github.io/lpr/publication/coupledsegmentationandedgelearning_neurips21_2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/coupledsegmentationandedgelearning_neurips21_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Stylization: A Fast Covariance Matching Framework towards Domain Adaptation</title>
+      <link>https://nvlabs.github.io/lpr/publication/domainstylization_tpami20_2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/domainstylization_tpami20_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification</title>
+      <link>https://nvlabs.github.io/lpr/publication/jointdisentanglingreid_eccv20_2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/jointdisentanglingreid_eccv20_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UFO2: A Unified Framework towards Omni-supervised Object Detection</title>
+      <link>https://nvlabs.github.io/lpr/publication/ufo_eccv20_2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/ufo_eccv20_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular Visual Hardness</title>
+      <link>https://nvlabs.github.io/lpr/publication/avh_icml20_2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/avh_icml20_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instance-aware, Context-focused, and Memory-efficient Weakly-Supervised Object Detection</title>
+      <link>https://nvlabs.github.io/lpr/publication/instanceaware_wsod_cvpr20_2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/instanceaware_wsod_cvpr20_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://nvlabs.github.io/lpr/</link>
       <atom:link href="https://nvlabs.github.io/lpr/index.xml" rel="self" type="application/rss+xml" />
     <description>NVIDIA Learning and Perception Research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>NVIDIA Learning and Perception Research</title>
@@ -13,25 +13,281 @@
     </image>
     
     <item>
+      <title>6-DoF Pose Estimation of Household Objects for Robotic Manipulation: An Accessible Dataset and Benchmark</title>
+      <link>https://nvlabs.github.io/lpr/publication/tyree2022hope/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/tyree2022hope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autoregressive 3D shape generation via canonical mapping</title>
+      <link>https://nvlabs.github.io/lpr/publication/cheng2022autoregressive/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/cheng2022autoregressive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LANA: Latency Aware Network Acceleration</title>
+      <link>https://nvlabs.github.io/lpr/publication/molchanov2022lana/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/molchanov2022lana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Conditional Image Synthesis with Product-of-Experts GANs</title>
+      <link>https://nvlabs.github.io/lpr/publication/huang2022poegan/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/huang2022poegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Light Field Estimation for Outdoor Scenes with Differentiable Virtual Object Insertion</title>
+      <link>https://nvlabs.github.io/lpr/publication/neuralobjectinsertion_eccv22_2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/neuralobjectinsertion_eccv22_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion Models for Adversarial Purification</title>
+      <link>https://nvlabs.github.io/lpr/publication/nie2022diffpure/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/nie2022diffpure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A-ViT: Adaptive Tokens for Efficient Vision Transformer</title>
+      <link>https://nvlabs.github.io/lpr/publication/yin2022avit/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/yin2022avit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoordGAN: Self-Supervised Dense Correspondences Emerge from GANs</title>
+      <link>https://nvlabs.github.io/lpr/publication/mu2022coordgan/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/mu2022coordgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FreeSOLO: Learning to Segment Objects without Annotations</title>
+      <link>https://nvlabs.github.io/lpr/publication/freesolo_cvpr22_2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/freesolo_cvpr22_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras</title>
       <link>https://nvlabs.github.io/lpr/publication/yuan2022glamr/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/yuan2022glamr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GroupViT: Semantic Segmentation Emerges From Text Supervision</title>
+      <link>https://nvlabs.github.io/lpr/publication/xu_2022_cvpr/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/xu_2022_cvpr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Watch It Move: Unsupervised Discovery of 3D Joints for Re-Posing of Articulated Objects</title>
       <link>https://nvlabs.github.io/lpr/publication/noguchi2022watch/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/noguchi2022watch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keypoint-Based Category-Level Object Pose Tracking from an RGB Sequence with Uncertainty Estimation</title>
+      <link>https://nvlabs.github.io/lpr/publication/lin2022keypoint/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lin2022keypoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Stage Keypoint-Based Category-Level Object Pose Estimation from an RGB Image</title>
+      <link>https://nvlabs.github.io/lpr/publication/lin2022single/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lin2022single/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Score-Based Generative Modeling with Critically-Damped Langevin Diffusion</title>
+      <link>https://nvlabs.github.io/lpr/publication/dockhorn2022cld/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/dockhorn2022cld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tackling the Generative Learning Trilemma with Denoising Diffusion GANs</title>
+      <link>https://nvlabs.github.io/lpr/publication/xiao2022ddgan/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/xiao2022ddgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning contrastive representation for semantic correspondence</title>
+      <link>https://nvlabs.github.io/lpr/publication/xiao2022learning/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/xiao2022learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Contrastive Learning Approach for Training Variational Autoencoder Priors</title>
+      <link>https://nvlabs.github.io/lpr/publication/aneja2021ncpvae/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/aneja2021ncpvae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controllable and Compositional Generation with Latent-Space Energy-Based Models</title>
+      <link>https://nvlabs.github.io/lpr/publication/nie2021lace/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/nie2021lace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupled Segmentation and Edge Learning Using Dynamic Graph Propagation</title>
+      <link>https://nvlabs.github.io/lpr/publication/coupledsegmentationandedgelearning_neurips21_2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/coupledsegmentationandedgelearning_neurips21_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t Generate Me: Training Differentially Private Generative Models with Sinkhorn Divergence</title>
+      <link>https://nvlabs.github.io/lpr/publication/cao2021dpsinkhorn/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/cao2021dpsinkhorn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improve Agents without Retraining: Parallel Tree Search with Off-Policy Correction</title>
+      <link>https://nvlabs.github.io/lpr/publication/dalal2021noretrain/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/dalal2021noretrain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KAMA: 3D Keypoint Aware Body Mesh Articulation</title>
+      <link>https://nvlabs.github.io/lpr/publication/iqbal2021kama/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/iqbal2021kama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Score-based Generative Modeling in Latent Space</title>
+      <link>https://nvlabs.github.io/lpr/publication/vahdat2021score/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/vahdat2021score/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Contrastive Motion Learning for Video Action Recognition</title>
+      <link>https://nvlabs.github.io/lpr/publication/hiercomo_bmvc21_2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/hiercomo_bmvc21_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noise-Aware Video Saliency Prediction</title>
+      <link>https://nvlabs.github.io/lpr/publication/prashnani2021noiseawarevs/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/prashnani2021noiseawarevs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds</title>
+      <link>https://nvlabs.github.io/lpr/publication/hao2021gancraft/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/hao2021gancraft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Indoor Inverse Rendering with 3D Spatially-Varying Lighting</title>
+      <link>https://nvlabs.github.io/lpr/publication/learningindoorlighting_iccv21_2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/learningindoorlighting_iccv21_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Supervised Object Detection via Generative Image Synthesis</title>
+      <link>https://nvlabs.github.io/lpr/publication/ssod_iccv21_2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/ssod_iccv21_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Supervised Real-to-Sim Scene Generation</title>
+      <link>https://nvlabs.github.io/lpr/publication/prakash2021iccvrealtosim/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/prakash2021iccvrealtosim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Space Control via Deep Reinforcement Learning</title>
+      <link>https://nvlabs.github.io/lpr/publication/kumar2021jailer/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/kumar2021jailer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-View Fusion for Multi-Level Robotic Scene Understanding</title>
+      <link>https://nvlabs.github.io/lpr/publication/lin2021mvml/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lin2021mvml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Stylization: A Fast Covariance Matching Framework towards Domain Adaptation</title>
+      <link>https://nvlabs.github.io/lpr/publication/domainstylization_tpami20_2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/domainstylization_tpami20_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RMPflow: A Geometric Framework for Generation of Multi-Task Motion Policies</title>
+      <link>https://nvlabs.github.io/lpr/publication/cheng2021rmpflow/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/cheng2021rmpflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Binary TTC: A Temporal Geofence for Autonomous Navigation</title>
       <link>https://nvlabs.github.io/lpr/publication/badki2021bittc/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/badki2021bittc/</guid>
       <description></description>
     </item>
@@ -39,7 +295,7 @@
     <item>
       <title>Deep Two-View Structure-from-Motion Revisited</title>
       <link>https://nvlabs.github.io/lpr/publication/zhong2021sfm/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/zhong2021sfm/</guid>
       <description></description>
     </item>
@@ -47,15 +303,47 @@
     <item>
       <title>DexYCB: A Benchmark for Capturing Hand Grasping of Objects</title>
       <link>https://nvlabs.github.io/lpr/publication/chao2021dexycb/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/chao2021dexycb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Geometry-aware 3D Generative Adversarial Networks</title>
+      <link>https://nvlabs.github.io/lpr/publication/chan2021eg3d/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/chan2021eg3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Track Instances without Video Annotations</title>
+      <link>https://nvlabs.github.io/lpr/publication/fu_2021_cvpr/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/fu_2021_cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing</title>
+      <link>https://nvlabs.github.io/lpr/publication/wang2021facevid2vid/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/wang2021facevid2vid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>See through Gradients: Image Batch Recovery via GradInversion</title>
+      <link>https://nvlabs.github.io/lpr/publication/yin2021gradinv/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/yin2021gradinv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast Uncertainty Quantification for Deep Object Pose Estimation</title>
       <link>https://nvlabs.github.io/lpr/publication/shi2021fastuq/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/shi2021fastuq/</guid>
       <description></description>
     </item>
@@ -63,80 +351,256 @@
     <item>
       <title>Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs</title>
       <link>https://nvlabs.github.io/lpr/publication/zhu2021hier/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/zhu2021hier/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Joint Space Control via Deep Reinforcement Learning</title>
-      <link>https://nvlabs.github.io/lpr/publication/kumar2021jailer/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/kumar2021jailer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>KAMA: 3D Keypoint Aware Body Mesh Articulation</title>
-      <link>https://nvlabs.github.io/lpr/publication/iqbal2021kama/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/iqbal2021kama/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-View Fusion for Multi-Level Robotic Scene Understanding</title>
-      <link>https://nvlabs.github.io/lpr/publication/lin2021mvml/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/lin2021mvml/</guid>
+      <title>Learning continuous environment fields via implicit functions</title>
+      <link>https://nvlabs.github.io/lpr/publication/li2021learning/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/li2021learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NViSII: A Scriptable Tool for Photorealistic Image Generation</title>
       <link>https://nvlabs.github.io/lpr/publication/morrical2021nvisii/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/morrical2021nvisii/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>RMPflow: A Geometric Framework for Generation of Multi-Task Motion Policies</title>
-      <link>https://nvlabs.github.io/lpr/publication/cheng2021rmpflow/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/cheng2021rmpflow/</guid>
+      <title>Parameter Efficient Multimodal Transformers for Video Representation Learning</title>
+      <link>https://nvlabs.github.io/lpr/publication/multimodaltransformer_iclr21_2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/multimodaltransformer_iclr21_2021/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Self-Supervised Real-to-Sim Scene Generation</title>
-      <link>https://nvlabs.github.io/lpr/publication/prakash2021iccvrealtosim/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/prakash2021iccvrealtosim/</guid>
+      <title>VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models</title>
+      <link>https://nvlabs.github.io/lpr/publication/xiao2020vaebm/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/xiao2020vaebm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bi3D: Stereo Depth Estimation via Binary Classifications</title>
-      <link>https://nvlabs.github.io/lpr/publication/badki2020bi3d/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/badki2020bi3d/</guid>
+      <title>Generating and Characterizing Scenarios for Safety Testing of Autonomous Vehicles</title>
+      <link>https://nvlabs.github.io/lpr/publication/ghodsi2021scenarios/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/ghodsi2021scenarios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Trajectory Fields for Dynamic Novel View Synthesis</title>
+      <link>https://nvlabs.github.io/lpr/publication/wang2021neuraltf/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/wang2021neuraltf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Vision-Based Cheat Detection in Competitive Gaming</title>
+      <link>https://nvlabs.github.io/lpr/publication/jonnalagadda2021anticheat/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/jonnalagadda2021anticheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating reinforcement learning through GPU atari emulation</title>
+      <link>https://nvlabs.github.io/lpr/publication/dalton2020cule/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/dalton2020cule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative View Synthesis: From Single-view Semantics to Novel-view Images</title>
+      <link>https://nvlabs.github.io/lpr/publication/habtegebrial2020generativevs/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/habtegebrial2020generativevs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NVAE: A Deep Hierarchical Variational Autoencoder</title>
       <link>https://nvlabs.github.io/lpr/publication/vahdat2020nvae/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/vahdat2020nvae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Distance between Two Neural Networks and the Stability of Learning</title>
+      <link>https://nvlabs.github.io/lpr/publication/bernstein2020fromage/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/bernstein2020fromage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online adaptation for consistent mesh reconstruction in the wild</title>
+      <link>https://nvlabs.github.io/lpr/publication/li2020online/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/li2020online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indirect Object-to-Robot Pose Estimation from an External Monocular RGB Camera</title>
+      <link>https://nvlabs.github.io/lpr/publication/tremblay2020indirect/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/tremblay2020indirect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-supervised single-view 3D reconstruction via semantic consistency</title>
+      <link>https://nvlabs.github.io/lpr/publication/li2020self/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/li2020self/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive Learning for Weakly Supervised Phrase Grounding</title>
+      <link>https://nvlabs.github.io/lpr/publication/gupta2020infoground/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/gupta2020infoground/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification</title>
+      <link>https://nvlabs.github.io/lpr/publication/jointdisentanglingreid_eccv20_2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/jointdisentanglingreid_eccv20_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UFO2: A Unified Framework towards Omni-supervised Object Detection</title>
+      <link>https://nvlabs.github.io/lpr/publication/ufo_eccv20_2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/ufo_eccv20_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World-Consistent Video-to-Video Synthesis</title>
+      <link>https://nvlabs.github.io/lpr/publication/mallya2020world/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/mallya2020world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular Visual Hardness</title>
+      <link>https://nvlabs.github.io/lpr/publication/avh_icml20_2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/avh_icml20_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undirected Graphical Models as Approximate Posteriors</title>
+      <link>https://nvlabs.github.io/lpr/publication/vahdat2020undirectedpost/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/vahdat2020undirectedpost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bi3D: Stereo Depth Estimation via Binary Classifications</title>
+      <link>https://nvlabs.github.io/lpr/publication/badki2020bi3d/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/badki2020bi3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instance-aware, Context-focused, and Memory-efficient Weakly-Supervised Object Detection</title>
+      <link>https://nvlabs.github.io/lpr/publication/instanceaware_wsod_cvpr20_2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/instanceaware_wsod_cvpr20_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meshlet Priors for 3D Mesh Reconstruction</title>
+      <link>https://nvlabs.github.io/lpr/publication/badki2020meshlets/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/badki2020meshlets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel View Synthesis of Dynamic Scenes With Globally Coherent Depths From a Monocular Camera</title>
+      <link>https://nvlabs.github.io/lpr/publication/yoon2020novelvs/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/yoon2020novelvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyTorchFI: A Runtime Perturbation Tool for DNNs</title>
+      <link>https://nvlabs.github.io/lpr/publication/mahmoud2020pytorchfi/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/mahmoud2020pytorchfi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Supervised Viewpoint Learning from Image Collections</title>
+      <link>https://nvlabs.github.io/lpr/publication/ssviewpointlearning_cvpr20_2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/ssviewpointlearning_cvpr20_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Supervised Semantic Image Segmentation with Self-correcting Networks</title>
+      <link>https://nvlabs.github.io/lpr/publication/ibrahim2020semi/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/ibrahim2020semi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-shot Spatially-varying BRDF and Shape Estimation</title>
+      <link>https://nvlabs.github.io/lpr/publication/twoshotbrdf_cvpr20_2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/twoshotbrdf_cvpr20_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UNAS: Differentiable Architecture Search Meets Reinforcement Learning</title>
+      <link>https://nvlabs.github.io/lpr/publication/vahdat2020unas/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/vahdat2020unas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weakly-Supervised 3D Human Pose Learning via Multi-view Images in the Wild</title>
       <link>https://nvlabs.github.io/lpr/publication/iqbal2020weakpose/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/iqbal2020weakpose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NRMVS: Non-Rigid Multi-View Stereo</title>
+      <link>https://nvlabs.github.io/lpr/publication/nrmvs_wacv20_2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/nrmvs_wacv20_2020/</guid>
       <description></description>
     </item>
     

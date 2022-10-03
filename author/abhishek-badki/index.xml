@@ -5,7 +5,7 @@
     <link>https://nvlabs.github.io/lpr/author/abhishek-badki/</link>
       <atom:link href="https://nvlabs.github.io/lpr/author/abhishek-badki/index.xml" rel="self" type="application/rss+xml" />
     <description>Abhishek Badki</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Abhishek Badki</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Binary TTC: A Temporal Geofence for Autonomous Navigation</title>
       <link>https://nvlabs.github.io/lpr/publication/badki2021bittc/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/badki2021bittc/</guid>
       <description></description>
     </item>
@@ -23,8 +23,16 @@
     <item>
       <title>Bi3D: Stereo Depth Estimation via Binary Classifications</title>
       <link>https://nvlabs.github.io/lpr/publication/badki2020bi3d/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/badki2020bi3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meshlet Priors for 3D Mesh Reconstruction</title>
+      <link>https://nvlabs.github.io/lpr/publication/badki2020meshlets/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/badki2020meshlets/</guid>
       <description></description>
     </item>
     
