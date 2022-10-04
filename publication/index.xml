@@ -53,10 +53,26 @@
     </item>
     
     <item>
+      <title>Sound-Guided Semantic Video Generation</title>
+      <link>https://nvlabs.github.io/lpr/publication/lee2022soundguided/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lee2022soundguided/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Diffusion Models for Adversarial Purification</title>
       <link>https://nvlabs.github.io/lpr/publication/nie2022diffpure/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/nie2022diffpure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling-up Diverse Orthogonal Convolutional Networks with a Paraunitary Framework</title>
+      <link>https://nvlabs.github.io/lpr/publication/su2022scalingup/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/su2022scalingup/</guid>
       <description></description>
     </item>
     
@@ -97,6 +113,22 @@
       <link>https://nvlabs.github.io/lpr/publication/xu_2022_cvpr/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/xu_2022_cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics Informed RNN-DCT Networks for Time-Dependent Partial Differential Equations</title>
+      <link>https://nvlabs.github.io/lpr/publication/wu2022rnndct/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/wu2022rnndct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound-Guided Semantic Image Manipulation</title>
+      <link>https://nvlabs.github.io/lpr/publication/lee2022soundimage/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lee2022soundimage/</guid>
       <description></description>
     </item>
     
@@ -145,6 +177,14 @@
       <link>https://nvlabs.github.io/lpr/publication/xiao2022learning/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/xiao2022learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Displacement-Invariant Cost Computation for Efficient Stereo Matching</title>
+      <link>https://nvlabs.github.io/lpr/publication/zhong2022displacement/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/zhong2022displacement/</guid>
       <description></description>
     </item>
     
@@ -325,6 +365,14 @@
     </item>
     
     <item>
+      <title>NVIDIA SimNet: An AI-accelerated multi-physics simulation framework</title>
+      <link>https://nvlabs.github.io/lpr/publication/hennigh2021simnet/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/hennigh2021simnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing</title>
       <link>https://nvlabs.github.io/lpr/publication/wang2021facevid2vid/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
@@ -337,6 +385,14 @@
       <link>https://nvlabs.github.io/lpr/publication/yin2021gradinv/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/yin2021gradinv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly-Supervised Physically Unconstrained Gaze Estimation</title>
+      <link>https://nvlabs.github.io/lpr/publication/kothari2021weaklysupervised/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/kothari2021weaklysupervised/</guid>
       <description></description>
     </item>
     
@@ -417,6 +473,14 @@
       <link>https://nvlabs.github.io/lpr/publication/dalton2020cule/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/dalton2020cule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Tensor-Train LSTM for Spatio-temporal Learning</title>
+      <link>https://nvlabs.github.io/lpr/publication/su2020convttlstm/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/su2020convttlstm/</guid>
       <description></description>
     </item>
     

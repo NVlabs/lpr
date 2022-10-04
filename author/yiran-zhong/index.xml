@@ -5,12 +5,20 @@
     <link>https://nvlabs.github.io/lpr/author/yiran-zhong/</link>
       <atom:link href="https://nvlabs.github.io/lpr/author/yiran-zhong/index.xml" rel="self" type="application/rss+xml" />
     <description>Yiran Zhong</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Yiran Zhong</title>
       <link>https://nvlabs.github.io/lpr/author/yiran-zhong/</link>
     </image>
+    
+    <item>
+      <title>Displacement-Invariant Cost Computation for Efficient Stereo Matching</title>
+      <link>https://nvlabs.github.io/lpr/publication/zhong2022displacement/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/zhong2022displacement/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Two-View Structure-from-Motion Revisited</title>

@@ -36,5 +36,13 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Convolutional Tensor-Train LSTM for Spatio-temporal Learning</title>
+      <link>https://nvlabs.github.io/lpr/publication/su2020convttlstm/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/su2020convttlstm/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
