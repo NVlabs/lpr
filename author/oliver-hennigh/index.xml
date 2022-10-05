@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oliver Hennigh | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/oliver-hennigh/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/oliver-hennigh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oliver Hennigh</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Oliver Hennigh</title>
+      <link>https://nvlabs.github.io/lpr/author/oliver-hennigh/</link>
+    </image>
+    
+    <item>
+      <title>Physics Informed RNN-DCT Networks for Time-Dependent Partial Differential Equations</title>
+      <link>https://nvlabs.github.io/lpr/publication/wu2022rnndct/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/wu2022rnndct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NVIDIA SimNet: An AI-accelerated multi-physics simulation framework</title>
+      <link>https://nvlabs.github.io/lpr/publication/hennigh2021simnet/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/hennigh2021simnet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
