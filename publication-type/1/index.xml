@@ -93,6 +93,14 @@
     </item>
     
     <item>
+      <title>Efficient Geometry-aware 3D Generative Adversarial Networks</title>
+      <link>https://nvlabs.github.io/lpr/publication/chan2021eg3d/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/chan2021eg3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FreeSOLO: Learning to Segment Objects without Annotations</title>
       <link>https://nvlabs.github.io/lpr/publication/freesolo_cvpr22_2022/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
@@ -169,14 +177,6 @@
       <link>https://nvlabs.github.io/lpr/publication/xiao2022ddgan/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/xiao2022ddgan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Displacement-Invariant Cost Computation for Efficient Stereo Matching</title>
-      <link>https://nvlabs.github.io/lpr/publication/zhong2022displacement/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/zhong2022displacement/</guid>
       <description></description>
     </item>
     
@@ -321,14 +321,6 @@
       <link>https://nvlabs.github.io/lpr/publication/chao2021dexycb/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/chao2021dexycb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient Geometry-aware 3D Generative Adversarial Networks</title>
-      <link>https://nvlabs.github.io/lpr/publication/chan2021eg3d/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/chan2021eg3d/</guid>
       <description></description>
     </item>
     

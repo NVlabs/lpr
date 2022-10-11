@@ -5,12 +5,20 @@
     <link>https://nvlabs.github.io/lpr/publication/</link>
       <atom:link href="https://nvlabs.github.io/lpr/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Publications</title>
       <link>https://nvlabs.github.io/lpr/publication/</link>
     </image>
+    
+    <item>
+      <title>Towards Annotation-efficient Segmentation via Image-to-image Translation</title>
+      <link>https://nvlabs.github.io/lpr/publication/vorontsov2022segim2im/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/vorontsov2022segim2im/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>6-DoF Pose Estimation of Household Objects for Robotic Manipulation: An Accessible Dataset and Benchmark</title>
@@ -89,6 +97,14 @@
       <link>https://nvlabs.github.io/lpr/publication/mu2022coordgan/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/mu2022coordgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Geometry-aware 3D Generative Adversarial Networks</title>
+      <link>https://nvlabs.github.io/lpr/publication/chan2021eg3d/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/chan2021eg3d/</guid>
       <description></description>
     </item>
     
@@ -345,14 +361,6 @@
       <link>https://nvlabs.github.io/lpr/publication/chao2021dexycb/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/chao2021dexycb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient Geometry-aware 3D Generative Adversarial Networks</title>
-      <link>https://nvlabs.github.io/lpr/publication/chan2021eg3d/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://nvlabs.github.io/lpr/publication/chan2021eg3d/</guid>
       <description></description>
     </item>
     

@@ -3,7 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nvlabs.github.io/lpr/author/jan-kautz/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/lpr/publication-type/2/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/lpr/authors/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/lpr/authors/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/lpr/author/christopher-beckham/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/lpr/author/eugene-vorontsov/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/lpr/author/matej-gazda/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/lpr/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/lpr/author/pavlo-molchanov/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/lpr/publication_types/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/lpr/publication/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/lpr/author/samuel-kadoury/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/lpr/publication/vorontsov2022segim2im/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nvlabs.github.io/lpr/publication-type/1/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
@@ -18,12 +54,6 @@
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nvlabs.github.io/lpr/author/arun-mallya/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/authors/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/authors/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nvlabs.github.io/lpr/publication/cheng2022autoregressive/</loc>
@@ -66,18 +96,6 @@
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nvlabs.github.io/lpr/author/nicolo-fusi/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/pavlo-molchanov/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/publication_types/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/publication/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nvlabs.github.io/lpr/author/sanja-fidler/</loc>
@@ -182,19 +200,34 @@
     <loc>https://nvlabs.github.io/lpr/author/benjamin-wu/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nvlabs.github.io/lpr/author/boxiao-pan/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nvlabs.github.io/lpr/author/chan-young-kim/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nvlabs.github.io/lpr/author/chunhua-shen/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nvlabs.github.io/lpr/author/connor-z.-lin/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nvlabs.github.io/lpr/publication/mu2022coordgan/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/lpr/publication/chan2021eg3d/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/lpr/author/eric-chan/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nvlabs.github.io/lpr/publication/freesolo_cvpr22_2022/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nvlabs.github.io/lpr/publication/yuan2022glamr/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/lpr/author/gordon-wetzstein/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nvlabs.github.io/lpr/publication/xu_2022_cvpr/</loc>
@@ -209,7 +242,16 @@
     <loc>https://nvlabs.github.io/lpr/author/jose-m.-alvarez/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nvlabs.github.io/lpr/author/koki-nagano/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nvlabs.github.io/lpr/author/kris-kitani/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/lpr/author/leonidas-j.-guibas/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/lpr/author/matthew-a.-chan/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nvlabs.github.io/lpr/author/nuno-vasconcelos/</loc>
@@ -224,6 +266,9 @@
     <loc>https://nvlabs.github.io/lpr/publication/wu2022rnndct/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://nvlabs.github.io/lpr/author/sameh-khamis/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nvlabs.github.io/lpr/author/sanjay-choudhry/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -234,6 +279,9 @@
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nvlabs.github.io/lpr/author/tatsuya-harada/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nvlabs.github.io/lpr/author/tero-karras/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nvlabs.github.io/lpr/author/thomas-breuel/</loc>
@@ -286,9 +334,6 @@
   </url><url>
     <loc>https://nvlabs.github.io/lpr/author/zhisheng-xiao/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/publication-type/2/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nvlabs.github.io/lpr/publication/xiao2022learning/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
@@ -515,25 +560,10 @@
     <loc>https://nvlabs.github.io/lpr/publication/badki2021bittc/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/boxiao-pan/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/connor-z.-lin/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nvlabs.github.io/lpr/publication/zhong2021sfm/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nvlabs.github.io/lpr/publication/chao2021dexycb/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/publication/chan2021eg3d/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/eric-chan/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/gordon-wetzstein/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nvlabs.github.io/lpr/author/humphrey-shi/</loc>
@@ -551,16 +581,7 @@
     <loc>https://nvlabs.github.io/lpr/author/kaustubh-tangsali/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/koki-nagano/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nvlabs.github.io/lpr/publication/fu_2021_cvpr/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/leonidas-j.-guibas/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/matthew-a.-chan/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nvlabs.github.io/lpr/author/max-rietmann/</loc>
@@ -581,9 +602,6 @@
     <loc>https://nvlabs.github.io/lpr/author/rakshit-kothari/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/sameh-khamis/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nvlabs.github.io/lpr/publication/yin2021gradinv/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -591,9 +609,6 @@
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nvlabs.github.io/lpr/author/susheela-narasimhan/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nvlabs.github.io/lpr/author/tero-karras/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nvlabs.github.io/lpr/publication/kothari2021weaklysupervised/</loc>
