@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>AVSBench: A Pixel-level Audio-Visual Segmentation Benchmark</title>
+      <link>https://nvlabs.github.io/lpr/publication/zhou2022avsbench/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/zhou2022avsbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LANA: Latency Aware Network Acceleration</title>
       <link>https://nvlabs.github.io/lpr/publication/molchanov2022lana/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
@@ -153,6 +161,14 @@
       <link>https://nvlabs.github.io/lpr/publication/lin2022keypoint/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/lin2022keypoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PredictionNet: Real-Time Joint Probabilistic Traffic Prediction for Planning, Control, and Simulation</title>
+      <link>https://nvlabs.github.io/lpr/publication/kamenev2022predictionnet/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/kamenev2022predictionnet/</guid>
       <description></description>
     </item>
     
@@ -485,6 +501,14 @@
     </item>
     
     <item>
+      <title>MVLidarNet: Real-Time Multi-Class Scene Understanding for Autonomous Driving Using Multiple Views</title>
+      <link>https://nvlabs.github.io/lpr/publication/chen2020mvlidarnet/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/chen2020mvlidarnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Self-supervised single-view 3D reconstruction via semantic consistency</title>
       <link>https://nvlabs.github.io/lpr/publication/li2020self/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
@@ -617,6 +641,30 @@
       <link>https://nvlabs.github.io/lpr/publication/iqbal2020weakpose/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/iqbal2020weakpose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camera-to-robot pose estimation from a single image</title>
+      <link>https://nvlabs.github.io/lpr/publication/lee2020camerapose/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lee2020camerapose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DexPilot: Vision Based Teleoperation of Dexterous Robotic Hand-Arm System</title>
+      <link>https://nvlabs.github.io/lpr/publication/handa2019dexpilot/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/handa2019dexpilot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Sim-to-Real Directional Semantic Grasping</title>
+      <link>https://nvlabs.github.io/lpr/publication/iqbal2020simtoreal/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/iqbal2020simtoreal/</guid>
       <description></description>
     </item>
     

@@ -28,5 +28,13 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Camera-to-robot pose estimation from a single image</title>
+      <link>https://nvlabs.github.io/lpr/publication/lee2020camerapose/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lee2020camerapose/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
