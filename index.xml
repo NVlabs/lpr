@@ -5,12 +5,60 @@
     <link>https://nvlabs.github.io/lpr/</link>
       <atom:link href="https://nvlabs.github.io/lpr/index.xml" rel="self" type="application/rss+xml" />
     <description>NVIDIA Learning and Perception Research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>NVIDIA Learning and Perception Research</title>
       <link>https://nvlabs.github.io/lpr/</link>
     </image>
+    
+    <item>
+      <title>Concrete Score Matching: Generalized Score Matching for Discrete Data</title>
+      <link>https://nvlabs.github.io/lpr/publication/meng2022concrete/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/meng2022concrete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denoising Diffusion Restoration Models</title>
+      <link>https://nvlabs.github.io/lpr/publication/kawar2022denoising/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/kawar2022denoising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embodied Scene-aware Human Pose Estimation</title>
+      <link>https://nvlabs.github.io/lpr/publication/luo2022embodied/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/luo2022embodied/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LISA: Learning Interpretable Skill Abstractions from Language</title>
+      <link>https://nvlabs.github.io/lpr/publication/garg2022lisa/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/garg2022lisa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RANA: Relightable Articulated Neural Avatars</title>
+      <link>https://nvlabs.github.io/lpr/publication/iqbal2022rana/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/iqbal2022rana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural Pruning via Latency-Saliency Knapsack</title>
+      <link>https://nvlabs.github.io/lpr/publication/shen2022structural/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/shen2022structural/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards Annotation-efficient Segmentation via Image-to-image Translation</title>
@@ -69,6 +117,14 @@
     </item>
     
     <item>
+      <title>Privacy Vulnerability of Split Computing to Data-Free Model Inversion Attacks</title>
+      <link>https://nvlabs.github.io/lpr/publication/dong2021deep/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/dong2021deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Scraping Textures from Natural Images for Synthesis and Editing</title>
       <link>https://nvlabs.github.io/lpr/publication/li2022scraping/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
@@ -81,6 +137,14 @@
       <link>https://nvlabs.github.io/lpr/publication/lee2022soundguided/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/lee2022soundguided/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partial Convolution for Padding, Inpainting, and Image Synthesis</title>
+      <link>https://nvlabs.github.io/lpr/publication/liu2022partial/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/liu2022partial/</guid>
       <description></description>
     </item>
     
@@ -141,6 +205,22 @@
     </item>
     
     <item>
+      <title>Global Context Vision Transformers</title>
+      <link>https://nvlabs.github.io/lpr/publication/hatamizadeh2022global/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/hatamizadeh2022global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GradViT: Gradient Inversion of Vision Transformers</title>
+      <link>https://nvlabs.github.io/lpr/publication/hatamizadeh2022gradvit/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/hatamizadeh2022gradvit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GroupViT: Semantic Segmentation Emerges From Text Supervision</title>
       <link>https://nvlabs.github.io/lpr/publication/xu_2022_cvpr/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
@@ -169,6 +249,14 @@
       <link>https://nvlabs.github.io/lpr/publication/noguchi2022watch/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/noguchi2022watch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When to Prune? A Policy towards Early Structural Pruning</title>
+      <link>https://nvlabs.github.io/lpr/publication/shen2022prune/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/shen2022prune/</guid>
       <description></description>
     </item>
     
@@ -213,6 +301,14 @@
     </item>
     
     <item>
+      <title>DRaCoN--Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars</title>
+      <link>https://nvlabs.github.io/lpr/publication/raj2022dracon/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/raj2022dracon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning contrastive representation for semantic correspondence</title>
       <link>https://nvlabs.github.io/lpr/publication/xiao2022learning/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
@@ -225,6 +321,14 @@
       <link>https://nvlabs.github.io/lpr/publication/zhong2022displacement/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/zhong2022displacement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do Gradient Inversion Attacks Make Federated Learning Unsafe?</title>
+      <link>https://nvlabs.github.io/lpr/publication/hatamizadeh2022gradient/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/hatamizadeh2022gradient/</guid>
       <description></description>
     </item>
     
@@ -249,6 +353,14 @@
       <link>https://nvlabs.github.io/lpr/publication/coupledsegmentationandedgelearning_neurips21_2021/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/coupledsegmentationandedgelearning_neurips21_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupled Segmentation and Edge Learning via Dynamic Graph Propagation</title>
+      <link>https://nvlabs.github.io/lpr/publication/yu2021coupled/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/yu2021coupled/</guid>
       <description></description>
     </item>
     
@@ -317,6 +429,22 @@
     </item>
     
     <item>
+      <title>NViT: Vision Transformer Compression and Parameter Redistribution</title>
+      <link>https://nvlabs.github.io/lpr/publication/yang2021nvit/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/yang2021nvit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Selective Protection for CNN Resilience</title>
+      <link>https://nvlabs.github.io/lpr/publication/mahmoud2021optimizing/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/mahmoud2021optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Self-Supervised Object Detection via Generative Image Synthesis</title>
       <link>https://nvlabs.github.io/lpr/publication/ssod_iccv21_2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
@@ -365,6 +493,14 @@
     </item>
     
     <item>
+      <title>Adversarial Motion Modelling Helps Semi-Supervised Hand Pose Estimation</title>
+      <link>https://nvlabs.github.io/lpr/publication/spurr2021adversarial/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/spurr2021adversarial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Binary TTC: A Temporal Geofence for Autonomous Navigation</title>
       <link>https://nvlabs.github.io/lpr/publication/badki2021bittc/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
@@ -385,6 +521,22 @@
       <link>https://nvlabs.github.io/lpr/publication/chao2021dexycb/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/chao2021dexycb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DiscoBox: Weakly Supervised Instance Segmentation and Semantic Correspondence from Box Supervision</title>
+      <link>https://nvlabs.github.io/lpr/publication/lan2021discobox/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lan2021discobox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Contrastive Loss and Attention for GANs</title>
+      <link>https://nvlabs.github.io/lpr/publication/yu2021dual/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/yu2021dual/</guid>
       <description></description>
     </item>
     
@@ -413,10 +565,26 @@
     </item>
     
     <item>
+      <title>Optimal Quantization Using Scaled Codebook</title>
+      <link>https://nvlabs.github.io/lpr/publication/idelbayev2021optimal/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/idelbayev2021optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>See through Gradients: Image Batch Recovery via GradInversion</title>
       <link>https://nvlabs.github.io/lpr/publication/yin2021gradinv/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/yin2021gradinv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>View Generalization for Single Image Textured 3D Models</title>
+      <link>https://nvlabs.github.io/lpr/publication/bhattad2021view/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/bhattad2021view/</guid>
       <description></description>
     </item>
     
@@ -525,6 +693,14 @@
     </item>
     
     <item>
+      <title>Neural FFTs for Universal Texture Image Synthesis</title>
+      <link>https://nvlabs.github.io/lpr/publication/mardani2020neural/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/mardani2020neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NVAE: A Deep Hierarchical Variational Autoencoder</title>
       <link>https://nvlabs.github.io/lpr/publication/vahdat2020nvae/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
@@ -613,6 +789,14 @@
     </item>
     
     <item>
+      <title>Transposer: Universal Texture Synthesis Using Feature Maps as Transposed Convolution Filter</title>
+      <link>https://nvlabs.github.io/lpr/publication/liu2020transposer/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/liu2020transposer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Undirected Graphical Models as Approximate Posteriors</title>
       <link>https://nvlabs.github.io/lpr/publication/vahdat2020undirectedpost/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
@@ -649,6 +833,14 @@
       <link>https://nvlabs.github.io/lpr/publication/yoon2020novelvs/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/yoon2020novelvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panoptic-Based Image Synthesis</title>
+      <link>https://nvlabs.github.io/lpr/publication/dundar2020panoptic/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/dundar2020panoptic/</guid>
       <description></description>
     </item>
     

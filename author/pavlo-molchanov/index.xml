@@ -5,12 +5,28 @@
     <link>https://nvlabs.github.io/lpr/author/pavlo-molchanov/</link>
       <atom:link href="https://nvlabs.github.io/lpr/author/pavlo-molchanov/index.xml" rel="self" type="application/rss+xml" />
     <description>Pavlo Molchanov</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Pavlo Molchanov</title>
       <link>https://nvlabs.github.io/lpr/author/pavlo-molchanov/</link>
     </image>
+    
+    <item>
+      <title>RANA: Relightable Articulated Neural Avatars</title>
+      <link>https://nvlabs.github.io/lpr/publication/iqbal2022rana/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/iqbal2022rana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural Pruning via Latency-Saliency Knapsack</title>
+      <link>https://nvlabs.github.io/lpr/publication/shen2022structural/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/shen2022structural/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards Annotation-efficient Segmentation via Image-to-image Translation</title>
@@ -25,6 +41,14 @@
       <link>https://nvlabs.github.io/lpr/publication/molchanov2022lana/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/molchanov2022lana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Vulnerability of Split Computing to Data-Free Model Inversion Attacks</title>
+      <link>https://nvlabs.github.io/lpr/publication/dong2021deep/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/dong2021deep/</guid>
       <description></description>
     </item>
     
@@ -45,6 +69,46 @@
     </item>
     
     <item>
+      <title>Global Context Vision Transformers</title>
+      <link>https://nvlabs.github.io/lpr/publication/hatamizadeh2022global/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/hatamizadeh2022global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GradViT: Gradient Inversion of Vision Transformers</title>
+      <link>https://nvlabs.github.io/lpr/publication/hatamizadeh2022gradvit/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/hatamizadeh2022gradvit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When to Prune? A Policy towards Early Structural Pruning</title>
+      <link>https://nvlabs.github.io/lpr/publication/shen2022prune/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/shen2022prune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DRaCoN--Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars</title>
+      <link>https://nvlabs.github.io/lpr/publication/raj2022dracon/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/raj2022dracon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do Gradient Inversion Attacks Make Federated Learning Unsafe?</title>
+      <link>https://nvlabs.github.io/lpr/publication/hatamizadeh2022gradient/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/hatamizadeh2022gradient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>KAMA: 3D Keypoint Aware Body Mesh Articulation</title>
       <link>https://nvlabs.github.io/lpr/publication/iqbal2021kama/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
@@ -53,10 +117,42 @@
     </item>
     
     <item>
+      <title>NViT: Vision Transformer Compression and Parameter Redistribution</title>
+      <link>https://nvlabs.github.io/lpr/publication/yang2021nvit/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/yang2021nvit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Selective Protection for CNN Resilience</title>
+      <link>https://nvlabs.github.io/lpr/publication/mahmoud2021optimizing/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/mahmoud2021optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Motion Modelling Helps Semi-Supervised Hand Pose Estimation</title>
+      <link>https://nvlabs.github.io/lpr/publication/spurr2021adversarial/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/spurr2021adversarial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DexYCB: A Benchmark for Capturing Hand Grasping of Objects</title>
       <link>https://nvlabs.github.io/lpr/publication/chao2021dexycb/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/chao2021dexycb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Quantization Using Scaled Codebook</title>
+      <link>https://nvlabs.github.io/lpr/publication/idelbayev2021optimal/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/idelbayev2021optimal/</guid>
       <description></description>
     </item>
     

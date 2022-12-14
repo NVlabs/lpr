@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Partial Convolution for Padding, Inpainting, and Image Synthesis</title>
+      <link>https://nvlabs.github.io/lpr/publication/liu2022partial/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/liu2022partial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Domain Stylization: A Fast Covariance Matching Framework towards Domain Adaptation</title>
       <link>https://nvlabs.github.io/lpr/publication/domainstylization_tpami20_2021/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
@@ -41,6 +49,14 @@
       <link>https://nvlabs.github.io/lpr/publication/mallya2020world/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/mallya2020world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transposer: Universal Texture Synthesis Using Feature Maps as Transposed Convolution Filter</title>
+      <link>https://nvlabs.github.io/lpr/publication/liu2020transposer/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/liu2020transposer/</guid>
       <description></description>
     </item>
     

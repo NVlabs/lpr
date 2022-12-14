@@ -5,12 +5,20 @@
     <link>https://nvlabs.github.io/lpr/author/umar-iqbal/</link>
       <atom:link href="https://nvlabs.github.io/lpr/author/umar-iqbal/index.xml" rel="self" type="application/rss+xml" />
     <description>Umar Iqbal</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Umar Iqbal</title>
       <link>https://nvlabs.github.io/lpr/author/umar-iqbal/</link>
     </image>
+    
+    <item>
+      <title>RANA: Relightable Articulated Neural Avatars</title>
+      <link>https://nvlabs.github.io/lpr/publication/iqbal2022rana/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/iqbal2022rana/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras</title>
@@ -29,6 +37,14 @@
     </item>
     
     <item>
+      <title>DRaCoN--Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars</title>
+      <link>https://nvlabs.github.io/lpr/publication/raj2022dracon/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/raj2022dracon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>KAMA: 3D Keypoint Aware Body Mesh Articulation</title>
       <link>https://nvlabs.github.io/lpr/publication/iqbal2021kama/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
@@ -41,6 +57,14 @@
       <link>https://nvlabs.github.io/lpr/publication/ssod_iccv21_2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/ssod_iccv21_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Motion Modelling Helps Semi-Supervised Hand Pose Estimation</title>
+      <link>https://nvlabs.github.io/lpr/publication/spurr2021adversarial/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/spurr2021adversarial/</guid>
       <description></description>
     </item>
     
