@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David Nister | NVIDIA Learning and Perception Research</title>
+    <title>David Nistér | NVIDIA Learning and Perception Research</title>
     <link>https://nvlabs.github.io/lpr/author/david-nister/</link>
       <atom:link href="https://nvlabs.github.io/lpr/author/david-nister/index.xml" rel="self" type="application/rss+xml" />
-    <description>David Nister</description>
+    <description>David Nistér</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
-      <title>David Nister</title>
+      <title>David Nistér</title>
       <link>https://nvlabs.github.io/lpr/author/david-nister/</link>
     </image>
     
