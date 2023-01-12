@@ -37,6 +37,22 @@
     </item>
     
     <item>
+      <title>GENIE: Higher-Order Denoising Diffusion Solvers</title>
+      <link>https://nvlabs.github.io/lpr/publication/dockhorn2022genie/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/dockhorn2022genie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LION: Latent Point Diffusion Models for 3D Shape Generation</title>
+      <link>https://nvlabs.github.io/lpr/publication/zeng2022lion/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/zeng2022lion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LISA: Learning Interpretable Skill Abstractions from Language</title>
       <link>https://nvlabs.github.io/lpr/publication/garg2022lisa/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
@@ -609,6 +625,14 @@
       <link>https://nvlabs.github.io/lpr/publication/ghodsi2021scenarios/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://nvlabs.github.io/lpr/publication/ghodsi2021scenarios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Trajectory Fields for Dynamic Novel View Synthesis</title>
+      <link>https://nvlabs.github.io/lpr/publication/wang2021neuraltf/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/wang2021neuraltf/</guid>
       <description></description>
     </item>
     
