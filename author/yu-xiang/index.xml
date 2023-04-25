@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu Xiang | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/yu-xiang/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/yu-xiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu Xiang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Yu Xiang</title>
+      <link>https://nvlabs.github.io/lpr/author/yu-xiang/</link>
+    </image>
+    
+    <item>
+      <title>DexYCB: A Benchmark for Capturing Hand Grasping of Objects</title>
+      <link>https://nvlabs.github.io/lpr/publication/chao2021dexycb/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/chao2021dexycb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

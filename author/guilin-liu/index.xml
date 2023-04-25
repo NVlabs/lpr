@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guilin Liu | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/guilin-liu/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/guilin-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guilin Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Guilin Liu</title>
+      <link>https://nvlabs.github.io/lpr/author/guilin-liu/</link>
+    </image>
+    
+    <item>
+      <title>Partial Convolution for Padding, Inpainting, and Image Synthesis</title>
+      <link>https://nvlabs.github.io/lpr/publication/liu2022partial/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/liu2022partial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupled Segmentation and Edge Learning Using Dynamic Graph Propagation</title>
+      <link>https://nvlabs.github.io/lpr/publication/coupledsegmentationandedgelearning_neurips21_2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/coupledsegmentationandedgelearning_neurips21_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupled Segmentation and Edge Learning via Dynamic Graph Propagation</title>
+      <link>https://nvlabs.github.io/lpr/publication/yu2021coupled/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/yu2021coupled/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DiscoBox: Weakly Supervised Instance Segmentation and Semantic Correspondence from Box Supervision</title>
+      <link>https://nvlabs.github.io/lpr/publication/lan2021discobox/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lan2021discobox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Contrastive Loss and Attention for GANs</title>
+      <link>https://nvlabs.github.io/lpr/publication/yu2021dual/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/yu2021dual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>View Generalization for Single Image Textured 3D Models</title>
+      <link>https://nvlabs.github.io/lpr/publication/bhattad2021view/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/bhattad2021view/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural FFTs for Universal Texture Image Synthesis</title>
+      <link>https://nvlabs.github.io/lpr/publication/mardani2020neural/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/mardani2020neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transposer: Universal Texture Synthesis Using Feature Maps as Transposed Convolution Filter</title>
+      <link>https://nvlabs.github.io/lpr/publication/liu2020transposer/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/liu2020transposer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panoptic-Based Image Synthesis</title>
+      <link>https://nvlabs.github.io/lpr/publication/dundar2020panoptic/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/dundar2020panoptic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Evans | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/alex-evans/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/alex-evans/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alex Evans</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Alex Evans</title>
+      <link>https://nvlabs.github.io/lpr/author/alex-evans/</link>
+    </image>
+    
+    <item>
+      <title>BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects</title>
+      <link>https://nvlabs.github.io/lpr/publication/bundlesdfwen2023/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/bundlesdfwen2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation</title>
+      <link>https://nvlabs.github.io/lpr/publication/lin2023parallel/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lin2023parallel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RTMV: A Ray-Traced Multi-View Synthetic Dataset for Novel View Synthesis</title>
+      <link>https://nvlabs.github.io/lpr/publication/tremblay2022rtmv/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/tremblay2022rtmv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

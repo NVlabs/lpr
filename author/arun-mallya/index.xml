@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arun Mallya | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/arun-mallya/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/arun-mallya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arun Mallya</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Arun Mallya</title>
+      <link>https://nvlabs.github.io/lpr/author/arun-mallya/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal Conditional Image Synthesis with Product-of-Experts GANs</title>
+      <link>https://nvlabs.github.io/lpr/publication/huang2022poegan/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/huang2022poegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A-ViT: Adaptive Tokens for Efficient Vision Transformer</title>
+      <link>https://nvlabs.github.io/lpr/publication/yin2022avit/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/yin2022avit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds</title>
+      <link>https://nvlabs.github.io/lpr/publication/hao2021gancraft/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/hao2021gancraft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing</title>
+      <link>https://nvlabs.github.io/lpr/publication/wang2021facevid2vid/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/wang2021facevid2vid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>See through Gradients: Image Batch Recovery via GradInversion</title>
+      <link>https://nvlabs.github.io/lpr/publication/yin2021gradinv/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/yin2021gradinv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World-Consistent Video-to-Video Synthesis</title>
+      <link>https://nvlabs.github.io/lpr/publication/mallya2020world/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/mallya2020world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UNAS: Differentiable Architecture Search Meets Reinforcement Learning</title>
+      <link>https://nvlabs.github.io/lpr/publication/vahdat2020unas/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/vahdat2020unas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongxu (Danny) Yin | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/hongxu-danny-yin/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/hongxu-danny-yin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hongxu (Danny) Yin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Hongxu (Danny) Yin</title>
+      <link>https://nvlabs.github.io/lpr/author/hongxu-danny-yin/</link>
+    </image>
+    
+    <item>
+      <title>Global Vision Transformer Pruning with Hessian-Aware Saliency</title>
+      <link>https://nvlabs.github.io/lpr/publication/yang2023hessian/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/yang2023hessian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous Continual Learning</title>
+      <link>https://nvlabs.github.io/lpr/publication/madaan2023continual/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/madaan2023continual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrence without Recurrence: Stable Video Landmark Detection with Deep Equilibrium Models</title>
+      <link>https://nvlabs.github.io/lpr/publication/micaelli2023deepequilibrium/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/micaelli2023deepequilibrium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural Pruning via Latency-Saliency Knapsack</title>
+      <link>https://nvlabs.github.io/lpr/publication/shen2022structural/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/shen2022structural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LANA: Latency Aware Network Acceleration</title>
+      <link>https://nvlabs.github.io/lpr/publication/molchanov2022lana/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/molchanov2022lana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Vulnerability of Split Computing to Data-Free Model Inversion Attacks</title>
+      <link>https://nvlabs.github.io/lpr/publication/dong2021deep/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/dong2021deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A-ViT: Adaptive Tokens for Efficient Vision Transformer</title>
+      <link>https://nvlabs.github.io/lpr/publication/yin2022avit/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/yin2022avit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Context Vision Transformers</title>
+      <link>https://nvlabs.github.io/lpr/publication/hatamizadeh2022global/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/hatamizadeh2022global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GradViT: Gradient Inversion of Vision Transformers</title>
+      <link>https://nvlabs.github.io/lpr/publication/hatamizadeh2022gradvit/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/hatamizadeh2022gradvit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When to Prune? A Policy towards Early Structural Pruning</title>
+      <link>https://nvlabs.github.io/lpr/publication/shen2022prune/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/shen2022prune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do Gradient Inversion Attacks Make Federated Learning Unsafe?</title>
+      <link>https://nvlabs.github.io/lpr/publication/hatamizadeh2022gradient/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/hatamizadeh2022gradient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NViT: Vision Transformer Compression and Parameter Redistribution</title>
+      <link>https://nvlabs.github.io/lpr/publication/yang2021nvit/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/yang2021nvit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Quantization Using Scaled Codebook</title>
+      <link>https://nvlabs.github.io/lpr/publication/idelbayev2021optimal/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/idelbayev2021optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>See through Gradients: Image Batch Recovery via GradInversion</title>
+      <link>https://nvlabs.github.io/lpr/publication/yin2021gradinv/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/yin2021gradinv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

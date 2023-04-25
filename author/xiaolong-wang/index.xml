@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaolong Wang | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/xiaolong-wang/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/xiaolong-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaolong Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Xiaolong Wang</title>
+      <link>https://nvlabs.github.io/lpr/author/xiaolong-wang/</link>
+    </image>
+    
+    <item>
+      <title>Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models</title>
+      <link>https://nvlabs.github.io/lpr/publication/xu2023panoptic/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/xu2023panoptic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-shot Pose Transfer for Unrigged Stylized 3D Characters</title>
+      <link>https://nvlabs.github.io/lpr/publication/wang2023posetransfer/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/wang2023posetransfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation</title>
+      <link>https://nvlabs.github.io/lpr/publication/yang2023gpvit/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/yang2023gpvit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scraping Textures from Natural Images for Synthesis and Editing</title>
+      <link>https://nvlabs.github.io/lpr/publication/li2022scraping/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/li2022scraping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoordGAN: Self-Supervised Dense Correspondences Emerge from GANs</title>
+      <link>https://nvlabs.github.io/lpr/publication/mu2022coordgan/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/mu2022coordgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GroupViT: Semantic Segmentation Emerges From Text Supervision</title>
+      <link>https://nvlabs.github.io/lpr/publication/xu_2022_cvpr/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/xu_2022_cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning continuous environment fields via implicit functions</title>
+      <link>https://nvlabs.github.io/lpr/publication/li2021learning/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/li2021learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online adaptation for consistent mesh reconstruction in the wild</title>
+      <link>https://nvlabs.github.io/lpr/publication/li2020online/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/li2020online/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

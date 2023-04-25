@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephen Tyree | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/stephen-tyree/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/stephen-tyree/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephen Tyree</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Stephen Tyree</title>
+      <link>https://nvlabs.github.io/lpr/author/stephen-tyree/</link>
+    </image>
+    
+    <item>
+      <title>BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects</title>
+      <link>https://nvlabs.github.io/lpr/publication/bundlesdfwen2023/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/bundlesdfwen2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation</title>
+      <link>https://nvlabs.github.io/lpr/publication/lin2023parallel/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lin2023parallel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RGB-Only Reconstruction of Tabletop Scenes for Collision-Free Manipulator Control</title>
+      <link>https://nvlabs.github.io/lpr/publication/tang2023tabletop/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/tang2023tabletop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MegaPose: 6D Pose Estimation of Novel Objects via Render and Compare</title>
+      <link>https://nvlabs.github.io/lpr/publication/labbe2022megapose/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/labbe2022megapose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6-DoF Pose Estimation of Household Objects for Robotic Manipulation: An Accessible Dataset and Benchmark</title>
+      <link>https://nvlabs.github.io/lpr/publication/tyree2022hope/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/tyree2022hope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keypoint-Based Category-Level Object Pose Tracking from an RGB Sequence with Uncertainty Estimation</title>
+      <link>https://nvlabs.github.io/lpr/publication/lin2022keypoint/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lin2022keypoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Stage Keypoint-Based Category-Level Object Pose Estimation from an RGB Image</title>
+      <link>https://nvlabs.github.io/lpr/publication/lin2022single/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lin2022single/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-View Fusion for Multi-Level Robotic Scene Understanding</title>
+      <link>https://nvlabs.github.io/lpr/publication/lin2021mvml/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lin2021mvml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NViSII: A Scriptable Tool for Photorealistic Image Generation</title>
+      <link>https://nvlabs.github.io/lpr/publication/morrical2021nvisii/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/morrical2021nvisii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indirect Object-to-Robot Pose Estimation from an External Monocular RGB Camera</title>
+      <link>https://nvlabs.github.io/lpr/publication/tremblay2020indirect/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/tremblay2020indirect/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

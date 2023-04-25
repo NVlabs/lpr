@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lingpeng Kong | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/lingpeng-kong/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/lingpeng-kong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lingpeng Kong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Lingpeng Kong</title>
+      <link>https://nvlabs.github.io/lpr/author/lingpeng-kong/</link>
+    </image>
+    
+    <item>
+      <title>Audio-Visual Segmentation</title>
+      <link>https://nvlabs.github.io/lpr/publication/zhou2022avsbench/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/zhou2022avsbench/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

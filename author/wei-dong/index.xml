@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Dong | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/wei-dong/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/wei-dong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Dong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Wei Dong</title>
+      <link>https://nvlabs.github.io/lpr/author/wei-dong/</link>
+    </image>
+    
+    <item>
+      <title>Fast Monocular Scene Reconstruction with Global-Sparse Local-Dense Grids</title>
+      <link>https://nvlabs.github.io/lpr/publication/dong2023grids/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/dong2023grids/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

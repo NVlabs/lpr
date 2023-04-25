@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yunzhi Lin | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/yunzhi-lin/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/yunzhi-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yunzhi Lin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Yunzhi Lin</title>
+      <link>https://nvlabs.github.io/lpr/author/yunzhi-lin/</link>
+    </image>
+    
+    <item>
+      <title>Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation</title>
+      <link>https://nvlabs.github.io/lpr/publication/lin2023parallel/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lin2023parallel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keypoint-Based Category-Level Object Pose Tracking from an RGB Sequence with Uncertainty Estimation</title>
+      <link>https://nvlabs.github.io/lpr/publication/lin2022keypoint/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lin2022keypoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Stage Keypoint-Based Category-Level Object Pose Estimation from an RGB Image</title>
+      <link>https://nvlabs.github.io/lpr/publication/lin2022single/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lin2022single/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-View Fusion for Multi-Level Robotic Scene Understanding</title>
+      <link>https://nvlabs.github.io/lpr/publication/lin2021mvml/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lin2021mvml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NViSII: A Scriptable Tool for Photorealistic Image Generation</title>
+      <link>https://nvlabs.github.io/lpr/publication/morrical2021nvisii/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/morrical2021nvisii/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

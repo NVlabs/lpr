@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Koki Nagano | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/koki-nagano/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/koki-nagano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Koki Nagano</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Koki Nagano</title>
+      <link>https://nvlabs.github.io/lpr/author/koki-nagano/</link>
+    </image>
+    
+    <item>
+      <title>RANA: Relightable Articulated Neural Avatars</title>
+      <link>https://nvlabs.github.io/lpr/publication/iqbal2022rana/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/iqbal2022rana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RTMV: A Ray-Traced Multi-View Synthetic Dataset for Novel View Synthesis</title>
+      <link>https://nvlabs.github.io/lpr/publication/tremblay2022rtmv/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/tremblay2022rtmv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Geometry-aware 3D Generative Adversarial Networks</title>
+      <link>https://nvlabs.github.io/lpr/publication/chan2021eg3d/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/chan2021eg3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DRaCoN--Differentiable Rasterization Conditioned Neural Radiance Fields for Articulated Avatars</title>
+      <link>https://nvlabs.github.io/lpr/publication/raj2022dracon/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/raj2022dracon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

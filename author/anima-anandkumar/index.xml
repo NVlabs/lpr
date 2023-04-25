@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anima Anandkumar | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/anima-anandkumar/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/anima-anandkumar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anima Anandkumar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Anima Anandkumar</title>
+      <link>https://nvlabs.github.io/lpr/author/anima-anandkumar/</link>
+    </image>
+    
+    <item>
+      <title>Vision Transformers Are Good Mask Auto-Labelers</title>
+      <link>https://nvlabs.github.io/lpr/publication/lan2023vision/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lan2023vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VoxFormer: Sparse voxel transformer for camera-based 3D semantic scene completion</title>
+      <link>https://nvlabs.github.io/lpr/publication/li2023voxformer/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/li2023voxformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prismer: A Vision-Language Model with An Ensemble of Experts</title>
+      <link>https://nvlabs.github.io/lpr/publication/liu2023prismer/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/liu2023prismer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MinVIS: A minimal video instance segmentation framework without video-based training</title>
+      <link>https://nvlabs.github.io/lpr/publication/huang2022minvis/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/huang2022minvis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test-time prompt tuning for zero-shot generalization in vision-language models</title>
+      <link>https://nvlabs.github.io/lpr/publication/shu2022test/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/shu2022test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion Models for Adversarial Purification</title>
+      <link>https://nvlabs.github.io/lpr/publication/nie2022diffpure/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/nie2022diffpure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panoptic SegFormer: Delving deeper into panoptic segmentation with transformers</title>
+      <link>https://nvlabs.github.io/lpr/publication/li2022panoptic/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/li2022panoptic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M$^2$BEV: Multi-camera joint 3D detection and segmentation with unified birds-eye view representation</title>
+      <link>https://nvlabs.github.io/lpr/publication/xie2022m/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/xie2022m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controllable and Compositional Generation with Latent-Space Energy-Based Models</title>
+      <link>https://nvlabs.github.io/lpr/publication/nie2021lace/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/nie2021lace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupled Segmentation and Edge Learning via Dynamic Graph Propagation</title>
+      <link>https://nvlabs.github.io/lpr/publication/yu2021coupled/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/yu2021coupled/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SegFormer: Simple and efficient design for semantic segmentation with transformers</title>
+      <link>https://nvlabs.github.io/lpr/publication/xie2021segformer/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/xie2021segformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DiscoBox: Weakly Supervised Instance Segmentation and Semantic Correspondence from Box Supervision</title>
+      <link>https://nvlabs.github.io/lpr/publication/lan2021discobox/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lan2021discobox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating and Characterizing Scenarios for Safety Testing of Autonomous Vehicles</title>
+      <link>https://nvlabs.github.io/lpr/publication/ghodsi2021scenarios/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/ghodsi2021scenarios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular Visual Hardness</title>
+      <link>https://nvlabs.github.io/lpr/publication/avh_icml20_2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/avh_icml20_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

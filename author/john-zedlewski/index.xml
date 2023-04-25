@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Zedlewski | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/john-zedlewski/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/john-zedlewski/index.xml" rel="self" type="application/rss+xml" />
+    <description>John Zedlewski</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>John Zedlewski</title>
+      <link>https://nvlabs.github.io/lpr/author/john-zedlewski/</link>
+    </image>
+    
+    <item>
+      <title>Domain Stylization: A Fast Covariance Matching Framework towards Domain Adaptation</title>
+      <link>https://nvlabs.github.io/lpr/publication/domainstylization_tpami20_2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/domainstylization_tpami20_2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chaowei Xiao | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/chaowei-xiao/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/chaowei-xiao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chaowei Xiao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Chaowei Xiao</title>
+      <link>https://nvlabs.github.io/lpr/author/chaowei-xiao/</link>
+    </image>
+    
+    <item>
+      <title>VoxFormer: Sparse voxel transformer for camera-based 3D semantic scene completion</title>
+      <link>https://nvlabs.github.io/lpr/publication/li2023voxformer/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/li2023voxformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prismer: A Vision-Language Model with An Ensemble of Experts</title>
+      <link>https://nvlabs.github.io/lpr/publication/liu2023prismer/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/liu2023prismer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test-time prompt tuning for zero-shot generalization in vision-language models</title>
+      <link>https://nvlabs.github.io/lpr/publication/shu2022test/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/shu2022test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion Models for Adversarial Purification</title>
+      <link>https://nvlabs.github.io/lpr/publication/nie2022diffpure/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/nie2022diffpure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding The Robustness in Vision Transformers</title>
+      <link>https://nvlabs.github.io/lpr/publication/zhou2022understanding/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/zhou2022understanding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

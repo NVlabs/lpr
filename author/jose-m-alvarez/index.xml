@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jose M Alvarez | NVIDIA Learning and Perception Research</title>
+    <link>https://nvlabs.github.io/lpr/author/jose-m-alvarez/</link>
+      <atom:link href="https://nvlabs.github.io/lpr/author/jose-m-alvarez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jose M Alvarez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nvlabs.github.io/lpr/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Jose M Alvarez</title>
+      <link>https://nvlabs.github.io/lpr/author/jose-m-alvarez/</link>
+    </image>
+    
+    <item>
+      <title>Vision Transformers Are Good Mask Auto-Labelers</title>
+      <link>https://nvlabs.github.io/lpr/publication/lan2023vision/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/lan2023vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VoxFormer: Sparse voxel transformer for camera-based 3D semantic scene completion</title>
+      <link>https://nvlabs.github.io/lpr/publication/li2023voxformer/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/li2023voxformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural Pruning via Latency-Saliency Knapsack</title>
+      <link>https://nvlabs.github.io/lpr/publication/shen2022structural/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/shen2022structural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Vulnerability of Split Computing to Data-Free Model Inversion Attacks</title>
+      <link>https://nvlabs.github.io/lpr/publication/dong2021deep/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/dong2021deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding The Robustness in Vision Transformers</title>
+      <link>https://nvlabs.github.io/lpr/publication/zhou2022understanding/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/zhou2022understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panoptic SegFormer: Delving deeper into panoptic segmentation with transformers</title>
+      <link>https://nvlabs.github.io/lpr/publication/li2022panoptic/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/li2022panoptic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When to Prune? A Policy towards Early Structural Pruning</title>
+      <link>https://nvlabs.github.io/lpr/publication/shen2022prune/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/shen2022prune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M$^2$BEV: Multi-camera joint 3D detection and segmentation with unified birds-eye view representation</title>
+      <link>https://nvlabs.github.io/lpr/publication/xie2022m/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/xie2022m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SegFormer: Simple and efficient design for semantic segmentation with transformers</title>
+      <link>https://nvlabs.github.io/lpr/publication/xie2021segformer/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/xie2021segformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Quantization Using Scaled Codebook</title>
+      <link>https://nvlabs.github.io/lpr/publication/idelbayev2021optimal/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nvlabs.github.io/lpr/publication/idelbayev2021optimal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
